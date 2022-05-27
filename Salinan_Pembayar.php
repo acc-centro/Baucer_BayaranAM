@@ -24,20 +24,103 @@
         html { font-family: 'Inter var', sans-serif; }
         body { padding: 10px; }
       }
+
+      body{
+        padding:1cm;
+      
+      }
+
+      table{
+        font family: arial, sans-serif;
+        border-collapse: collapse;
+        
+      }
+
+      td,th{
+        border: 1px solid;
+        text-align: left;
+      }
+
+      h3{
+        margin: -8px;
+      }
+
+    
+      
   </style>
-  <script></script>
+  <script>
+
+  </script>
 
 </head>
 
 <body>
 <!-- Page Header -->
 <header>
-    
-    <div class="p-5 text-center">
-        <h2 class="mb-1" style="font-size:11px"><b>KERAJAAN NEGERI SABAH</b></h2>
-        <h1 class="mb-1" style="font-size:18px"><b>BAUCER BAYARAN AM</b></h1>
-        <h3 class="mb-1" style="font-size:8px">TAHUN KEWANGAN</h3>
+    <div class="p-3 text-center">
+      <h1 class="mb-1" style="font-size:11px"><b>KERAJAAN NEGERI SABAH</b></h1>
+      <h1 class="mb-1" style="font-size:18px"><b>BAUCER BAYARAN AM</b></h1>
+      <h3 class="p-1 text-left" style="font-size:8px">SALINAN PEMBAYAR</h3>
+      <h1 class="mb-1" style="font-size:8px;"><b>TAHUN KEWANGAN<b></h1>
     </div>
-    
+  <h3 class="mb-1 text-right" style="font-size:8px"><b>JBN 38</b><br>(Pin 1/2022)</h3> 
 </header>
+<!--end header-->
+
+<!--table form-->
+<table>
+    <tr> 
+      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> NO. WARAN PERUNTUKAN ANGG/2022 </td>
+      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> TARIKH BAUCER </td>
+      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> NO. BAUCER JABATAN </td>
+      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> KOD JAB </td>
+      <td colspan="1" rowspan="4" width="600" height="9" style="font-size:8px"> Disemak oleh Jabatan </td>
+    </tr>
+    
+    <tr>
+      <td colspan="4" rowspan="1" height="11" style="font-size:8px"> NAMA PENERIMA </td>
+    </tr>
+
+    <tr>
+      <td colspan="2" rowspan="2" width="100" height="10" style="font-size:8px"> ALAMAT/NAMA BANK </td>
+      <td  colspan="2" rowspan="1" width="52" height="10" style="font-size:8px"> NO.KP/PASSPORT/SYARIKAT 
+        <tr>
+          <td colspan="2" rowspan="1" width="52" height="19"style="font-size:8px"> NO. AKAUN BANK </td>
+        </tr>
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="4" rowspan="5" width="100" height="10" style="font-size:8px"> PERIHAL BAYARAN </td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> UNTUK KEGUNAAN PEJABAT </b>
+        <tr>
+          <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> NO BAUCER PRB KOD JAB
+            <tr>
+              <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Cap dan Tarikh Diterima 
+                <tr>
+                  <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Disemak oleh
+                    <tr>
+                      <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Diluluskan oleh </td>
+                    </tr>
+                  </td>
+                </tr> 
+              </td>
+            </tr>
+          </td>
+        </tr>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" rowspan="7" width="100" height="10" style="font-size:8px"> VOT..</td>
+    </tr>
+
+ 
+
+
+  
+
+    
+
+</table>
+
 </body>
