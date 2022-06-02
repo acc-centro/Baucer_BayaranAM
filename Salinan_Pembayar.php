@@ -27,12 +27,14 @@
 
       body{
         padding:1cm;
+       
       
       }
 
       table{
         font family: arial, sans-serif;
         border-collapse: collapse;
+        width:1000;
         
       }
 
@@ -70,37 +72,37 @@
 <!--table form-->
 <table>
     <tr> 
-      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> NO. WARAN PERUNTUKAN ANGG/2022 </td>
-      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> TARIKH BAUCER </td>
-      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> NO. BAUCER JABATAN </td>
-      <td colspan="1" rowspan="1" width="600" height="9" style="font-size:8px"> KOD JAB </td>
-      <td colspan="1" rowspan="4" width="600" height="9" style="font-size:8px"> Disemak oleh Jabatan </td>
+      <td colspan="3" rowspan="1" width="100" height="10" style="font-size:8px"> NO. WARAN PERUNTUKAN ANGG/2022 </td>
+      <td colspan="2" rowspan="1" width="100" height="10" style="font-size:8px"> TARIKH BAUCER </td>
+      <td colspan="2" rowspan="1" width="100" height="10" style="font-size:8px"> NO. BAUCER JABATAN </td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> KOD JAB </td>
+      <td colspan="1" rowspan="4" width="100" height="10" style="font-size:8px"> Disemak oleh Jabatan </td>
     </tr>
     
     <tr>
-      <td colspan="4" rowspan="1" height="11" style="font-size:8px"> NAMA PENERIMA </td>
+      <td colspan="8" rowspan="1" width="100" height="10" style="font-size:8px"> NAMA PENERIMA </td>
     </tr>
 
     <tr>
-      <td colspan="2" rowspan="2" width="100" height="10" style="font-size:8px"> ALAMAT/NAMA BANK </td>
-      <td  colspan="2" rowspan="1" width="52" height="10" style="font-size:8px"> NO.KP/PASSPORT/SYARIKAT 
+      <td  colspan="6" rowspan="2"width="100" height="10" style="font-size:8px"> ALAMAT/NAMA BANK </td>
+      <td  colspan="2" rowspan="1" width="100" height="10" style="font-size:8px"> NO.KP/PASSPORT/SYARIKAT 
         <tr>
-          <td colspan="2" rowspan="1" width="52" height="19"style="font-size:8px"> NO. AKAUN BANK </td>
+          <td colspan="2" rowspan="1" width="100" height="10"style="font-size:8px"> NO. AKAUN BANK </td>
         </tr>
       </td>
     </tr>
 
     <tr>
-      <td colspan="4" rowspan="5" width="100" height="10" style="font-size:8px"> PERIHAL BAYARAN </td>
+      <td colspan="8" rowspan="5" width="100" height="10" style="font-size:8px"> PERIHAL BAYARAN </td>
       <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> UNTUK KEGUNAAN PEJABAT </b>
         <tr>
-          <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> NO BAUCER PRB KOD JAB
+          <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> NO BAUCER PRB KOD JAB
             <tr>
-              <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Cap dan Tarikh Diterima 
+              <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> Cap dan Tarikh Diterima 
                 <tr>
-                  <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Disemak oleh
+                  <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> Disemak oleh
                     <tr>
-                      <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Diluluskan oleh </td>
+                      <td colspan="1" rowspan="6" width="100" height="10" style="font-size:8px"> Diluluskan oleh </td>
                     </tr>
                   </td>
                 </tr> 
@@ -110,10 +112,64 @@
         </tr>
       </td>
     </tr>
+
     <tr>
-      <td colspan="4" rowspan="7" width="100" height="10" style="font-size:8px"> VOT..</td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> VOT..</td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> JAB..</td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> PTJ/PK..</td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> PROG/AKT/AMANAH</td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> PROJEK/SETIA</td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> OBJEK..</td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> AMAUN </td>
+      <td colspan="1" rowspan="2" width="100" height="10" style="font-size:8px"> DT/KT </td>
+        <tr>
+          <td colspan="1" rowspan="1" width="100" height="10"style="font-size:8px"> RM </td> 
+        </tr>
     </tr>
 
+    <tr>
+      <td colspan="6" rowspan="1" width="100" height="10" style="font-size:8px"> </td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> 69,937.21</td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> DT </td>
+    </tr>
+
+    <tr>
+      <td colspan="6" rowspan="1" width="100" height="10" style="font-size:8px"> JUMLAH BERSIH</td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> 69,937.21</td>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> </td>
+    </tr>
+
+    <tr>
+      <td colspan="8" rowspan="1" width="100" height="10" style="font-size:8px"> AMAUN (Dalam perkataan) RM: Enam Puluh Sembilan Ribu Sembilan Ratus Tiga Puluh Tujuh Dan Dua Puluh Satu Sen Sahaja</td>
+    </tr>
+
+    <tr>
+      <td colspan="3" rowspan="1" width="100" height="10" style="font-size:8px"> AP 95 DIPATUHI </td>
+      <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> AP 99 DAN AP 102 DIPATUHI </td>
+      <td colspan="3" rowspan="3" width="100" height="10" style="font-size:8px"> AP 58 (a) </td>
+        
+          <td colspan="3" rowspan="3" width="100" height="10" style="font-size:8px"> Cap 'Dibayar'</td>
+        
+      </td>
+    </tr>
+      
+    <tr>
+      <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Tandatangan Ringkas</td>
+      <td colspan="4" rowspan="1" width="100" height="10" style="font-size:8px"> Tandatangan, Nama, Jawatan dan Jabatan </td>
+    </tr>
+
+    <tr>
+      <td colspan="4" rowspan="2" width="100" height="10" style="font-size:8px"> Disemak oleh/ cap
+       
+      </td>
+      <td colspan="4" rowspan="2" width="100" height="10" style="font-size:8px"> Tandatangan, Nama, Jawatan  </td>
+    </tr>
+
+    
+    
+       
+      
+   
  
 
 
