@@ -20,37 +20,21 @@
         html { font-family: 'Inter var', sans-serif; }
         body { padding: 10px; }
       }
-<<<<<<< HEAD
-
-=======
->>>>>>> work
       .body{
         padding:1cm;
        
       
       }
-<<<<<<< HEAD
-
-=======
->>>>>>> work
       .table{
         font family: arial, sans-serif;
         border-collapse: collapse;
         width:1000;
         
       }
-<<<<<<< HEAD
-
-=======
->>>>>>> work
       .td,th{
         border: 1px solid;
         text-align: left;
       }
-<<<<<<< HEAD
-
-=======
->>>>>>> work
       .h3{
         margin: -8px;
       }
@@ -161,11 +145,6 @@
       <td colspan="4" rowspan="2" width="100" height="10" style="font-size:8px"> Tandatangan, Nama, Jawatan  </td>
     </tr>
 </table>
-<<<<<<< HEAD
 
 </body>
 </html>
-=======
-</body>
-</html>
->>>>>>> work
