@@ -20,22 +20,22 @@
         html { font-family: 'Inter var', sans-serif; }
         body { padding: 10px; }
       }
-      body{
+      .body{
         padding:1cm;
        
       
       }
-      table{
+      .table{
         font family: arial, sans-serif;
         border-collapse: collapse;
         width:1000;
         
       }
-      td,th{
+      .td,th{
         border: 1px solid;
         text-align: left;
       }
-      h3{
+      .h3{
         margin: -8px;
       }
     
@@ -79,7 +79,7 @@
     </tr>
     <tr>
       <td colspan="8" rowspan="5" width="100" height="10" style="font-size:8px"> PERIHAL BAYARAN </td>
-      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> <b> UNTUK KEGUNAAN PEJABAT </b>
+      <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"><b> UNTUK KEGUNAAN PEJABAT </b>
         <tr>
           <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> NO BAUCER PRB KOD JAB
             <tr>
@@ -87,7 +87,7 @@
                 <tr>
                   <td colspan="1" rowspan="1" width="100" height="10" style="font-size:8px"> Disemak oleh
                     <tr>
-                      <!--JANGAN LAGI KACAU-->
+                      <!--JANGAN KACAU LAGI YANG DI ATS-->
                       <td colspan="1" rowspan="6" width="100" height="10" style="font-size:8px"> Diluluskan oleh </td>
                     </tr>
                   </td>
@@ -144,8 +144,6 @@
       </td>
       <td colspan="4" rowspan="2" width="100" height="10" style="font-size:8px"> Tandatangan, Nama, Jawatan  </td>
     </tr>
-    
-    
 </table>
 </body>
 </html>
