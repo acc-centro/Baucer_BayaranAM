@@ -20,22 +20,22 @@
         html { font-family: 'Inter var', sans-serif; }
         body { padding: 10px; }
       }
-      .body{
+      body{
         padding:1cm;
        
       
       }
-      .table{
+      table{
         font family: arial, sans-serif;
         border-collapse: collapse;
         width:1000;
         
       }
-      .td,th{
+      td,th{
         border: 1px solid;
-        text-align: left;
+        
       }
-      .h3{
+      h3{
         margin: -8px;
       }
     
