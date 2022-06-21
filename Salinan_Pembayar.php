@@ -63,10 +63,11 @@
   <h3 class="mb-1 text-right" style="font-size:8px"><b>JBN 38</b><br>(Pin 1/2022)</h3> 
 </header>
 <!--end header-->
+
 <!--table form-->
 <table style="width:100%">
     <tr>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> VOT </td>
+      <td colspan="1" rowspan="2"  style="font-size:8px" style="width:755px"> VOT </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> JAB </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> PTJ/PK </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> PROG/AKT/AMANAH </td>
