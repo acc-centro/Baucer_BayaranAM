@@ -12,8 +12,15 @@
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js" crossorigin="anonymous"></script>
-    
+   
+  
+
   <style>
+    @media print{
+      .dontPrint{
+        display:none;
+      }
+    }
 
      @page {
       margin-top: 1cm;
@@ -27,11 +34,7 @@
         html { font-family: 'Inter var', sans-serif; }
         body { padding: 10px; }
       }
-      body{
-        padding:1cm;
-       
       
-      }
       table{
         font family: arial, sans-serif;
         border-collapse: collapse;
@@ -52,6 +55,10 @@
   </script>
 </head>
 <body>
+
+<!--print button-->
+<button onclick="window.print();" class="dontPrint"> Print </button>
+
 <!-- Page Header -->
 <header>
     <div class="p-3 text-center">
@@ -67,7 +74,7 @@
 <!--table form-->
 <table style="width:100%">
     <tr>
-      <td colspan="1" rowspan="2"  style="font-size:8px" style="width:755px"> VOT </td>
+      <td colspan="1" rowspan="2"  style="font-size:8px"> VOT </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> JAB </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> PTJ/PK </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> PROG/AKT/AMANAH </td>
@@ -75,14 +82,18 @@
       <td colspan="1" rowspan="2"  style="font-size:8px"> OBJEK </td>
       <td colspan="1" rowspan="1"  style="font-size:8px"> AMAUN </td>
       <td colspan="1" rowspan="2"  style="font-size:8px"> DT/KT </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> Disemak oleh: </td>
-    </tr>  
+      <td colspan="1" rowspan="6"  style="font-size:8px"> Disemak oleh: 
+      <tr>
       <td colspan="1" style="font-size:8px"> RM </td>
+    </tr>
+      </td>
+    </tr>  
     
     <tr> 
-      <td colspan="6" style="width:100px" style="font-size:8px"> D11 121 150701 000100 00000004 00000 </td>
+      <td rowspan="6" colspan="4" style="font-size:8px"> D11 121 150701 000100 00000004 00000 </td>
     </tr>
-      
+    
+    
 </table>
 
 </body>
