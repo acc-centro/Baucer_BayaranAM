@@ -48,9 +48,14 @@
       h3{
         margin: -8px;
       }
+      
+      h4{
+        font-size:12px;
+      }
     
       
   </style>
+  
   <script>
   </script>
 </head>
@@ -72,28 +77,94 @@
 <!--end header-->
 
 <!--table form-->
-<table style="width:100%">
+<table style="width:100%;" >
+  <tbody>
     <tr>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> VOT </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> JAB </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> PTJ/PK </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> PROG/AKT/AMANAH </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> PROJEK/SETIA </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> OBJEK </td>
-      <td colspan="1" rowspan="1"  style="font-size:8px"> AMAUN </td>
-      <td colspan="1" rowspan="2"  style="font-size:8px"> DT/KT </td>
-      <td colspan="1" rowspan="6"  style="font-size:8px"> Disemak oleh: 
+      <td colspan="4" rowspan="1"   style="font-size:8px"> NO. WARAN PERUNTUKAN <br>ANGG/2022</br> </td>
+      <td colspan="2" rowspan="1"   style="font-size:8px"> TARIKH BAUCER <br>15/02/2022</br> </td>
+      <td colspan="2" rowspan="1"   style="font-size:8px"> NO. BAUCER BAYARAN <br>001455</br> </td>
+      <td colspan="1" rowspan="1"   style="font-size:8px"> KOD JAB. <br>121</br> </td>
+      <td colspan="1" rowspan="4"   style="font-size:8px"> Disemak Oleh Jabatan <br>Cap, Tandatangan dan Tarikh</br> </td>
+    </tr>
+    <tr>
+    <td colspan="9" rowspan="1"   style="font-size:8px"> NAMA PENERIMA <br><H4>JURUKUR VITUS TAN & ASSOCIATIATES</h4></br></td>
+    </tr>
+    <tr>
+    <td colspan="6" rowspan="2"  style="font-size:8px"> ALAMAT/ NAMA BANK <br>1ST FLOOR, LOT 2, BLOCK 36, BANDAR PENAMPANG BARU, PHASE 2B,<br>MILE 4 1/5, JALAN PENAMPANG, 88300 KOTA KINABALU, SABAH.</br><br>(HONG LEONG BANK BERHAD)</br></br> </td>
+    <td colspan="3" rowspan="1"  style="font-size:8px">NO.KP/PASSPORT/SYARIKAT</td>
       <tr>
-      <td colspan="1" style="font-size:8px"> RM </td>
+      <td colspan="3" rowspan="1"   style="font-size:8px">NO AKAUN BANK <br>HLB00 25900000325</br></td>
+      </tr>
     </tr>
-      </td>
-    </tr>  
-    
-    <tr> 
-      <td rowspan="6" colspan="4" style="font-size:8px"> D11 121 150701 000100 00000004 00000 </td>
+  </tbody>
+  <!--JANGAN LAGI KACAU YANG DIATAS-->
+  <tbody>
+    <tr>
+    <td colspan="9" rowspan="5"   style="font-size:8px"> PERIHAL BAYARAN <h4><br>Kontrak</br><br>Diakui benar,</br><br>[AZLI B. LIMAN]<br>PENOLONH JURUUKUR DAERAH KANAN/J.38</br></br></h4></td>
+    <td colspan="1" rowspan="1"   style="font-size:8px"><b>UNTUK KEGUNAAN PEJABAT PEMBAYAR</b></td>
+      <tr>
+        <td colspan="1" rowspan="1"  style="font-size:8px">NO. BAUCER PRB &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KOD. JAB</td>
+        <tr>
+          <td colspan="1" rowspan="3"  height="90px" style="font-size:8px">Cap dan Tarikh Diterima</td>
+        </tr>
+      </tr>
     </tr>
-    
-    
+  </tbody>
+  <!--JANGAN LAAGI KACAU YANG DI ATAS-->
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> VOT </td>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> JAB </td>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> PTJ/PK </td>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> PROG/AKT/<br>AMANAH </td>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> PROJEK/<br>SETIA </td>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> OBJEK </td>
+      <td colspan="2" rowspan="1"   style="font-size:8px"> AMAUN </td>
+      <td colspan="1" rowspan="2"   style="font-size:8px"> DT/KT </td>
+      <td colspan="1" rowspan="3"   height="80px" style="font-size:8px"> Disemak Oleh: <br> Cap, Tandatangan dan Tarikh </td>
+    </tr>
+        <tr>
+          <td colspan="2" rowspan="1" style="font-size:8px"> RM </td>
+        </tr>
+    <tr>
+      <td colspan="6" rowspan="2"  height="100px" style="font-size:8px">D11 121...</td>
+      <td colspan="2" rowspan="2"  style="font-size:8px">69,937.21</td>
+      <td colspan="1" rowspan="2"  style="font-size:8px">DT</td>
+    </tr> 
+    <tr>
+      <td colspan="1" rowspan="3" style="font-size:8px">Diluluskan Oleh: <br> Tandatangan dan Tarikh</td>
+    </tr>
+    <tr>
+      <td colspan="6" rowspan="1" style="font-size:8px"><b>JUMLAH BERSIH</b></td>
+      <td colspan="2" rowspan="1" style="font-size:8px">69,937.21</td>
+      <td colspan="1" rowspan="1" style="font-size:8px">..</td>
+    </tr> 
+    <tr>
+      <td colspan="9" rowspan="1" style="font-size:8px"> Amaun (Dalam Perkataan) RM: <br><h4>Enam Puluh Sembilan Ribu Sembilan Ratus Tiga Puluh Tujuh Dan Dua Puluh Satu Sen Sahaja</h4></td>
+    </tr>
+  </tbody>
+  <!--jangan lagi kacau yang di ats-->
+  <tbody>
+    <tr>
+      <td colspan="3" rowspan="1"   style="font-size:8px"> AP 95 DIPATUHI </td>
+      <td colspan="4" rowspan="1"   style="font-size:8px"> AP 99 DAN AP 102 DIPATUHI </td>
+      <td colspan="3" rowspan="2"   style="font-size:8px"> AP 58 (a) </td>
+    </tr>
+    <tr>
+      <td colspan="3" rowspan="1"   height="70px" style="font-size:8px"> Muka surat/Perkara....<br>Baki peruntukan yang belum dipertanggungkan;<br>RM...<br> Tandatangan Ringkas </td>
+      <td colspan="4" rowspan="1"   style="font-size:8px"> Tandatangan, Nama, Jawatan, dan Jabatan </td>
+    </tr>
+    <tr>
+      <td colspan="3" rowspan="1"   style="font-size:8px"> Disemak oleh: <br> --<br>Tandatangan </td>
+      <td colspan="4" rowspan="2"   style="font-size:8px"> Tandatangan, Nama, Jawatan</td>
+      <td colspan="4" rowspan="2"   style="font-size:8px"> Cap 'Dibayar' </td>
+
+    </tr>
+    <tr>
+      <td colspan="3" rowspan="1"   style="font-size:8px"> Cap Ibu Pejabat Jabatan Asal<br>dan tarikh terima baucer</td>
+      
+    </tr>
+  </tbody>   
 </table>
 
 </body>
